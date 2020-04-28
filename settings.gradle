@@ -1,0 +1,2 @@
+rootProject.name='swoosh'
+include ':app'
